@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Deputy and Council. Tyrconnel. Whereas several persons in the province of Ulster, and the town of Sligo, in this his Majesties kingdom, have entred into several associations, containing no less offence than high treason...</title>
+            <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03814</idno>
+            <idno type="STC">Wing I880</idno>
+            <idno type="STC">ESTC R223058</idno>
+            <idno type="EEBO-CITATION">52529165</idno>
+            <idno type="OCLC">ocm 52529165</idno>
+            <idno type="VID">178816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178816)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2771:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Deputy and Council. Tyrconnel. Whereas several persons in the province of Ulster, and the town of Sligo, in this his Majesties kingdom, have entred into several associations, containing no less offence than high treason...</title>
+                  <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.]   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham, assignes of Benjamin Tooke ... ;</publisher>
+                  <publisher>for T.G. and are to be sold by Richard Baldwin, ...</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <pubPlace>And reprinted at London :</pubPlace>
+                  <date>1689</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at end: A. Fytton. C. Granard. Lymerick. Bellewe. Will. Talbot. Tho. Newcomen. Rich. Hamilton. Fran. Plowden.</note>
+                  <note>"Licensed according to order, March 22 168⁸₉."</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1688-1689 --  Sources.</term>
+               <term>Ireland --  History --  War of 1689-1691 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178816:1"/>
+            <!-- PDF PAGE 5 -->
+            <pb facs="tcp:178816:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>BY THE LORD DEPUTY AND COUNCIL.</head>
+            <argument>
+               <p>Licenſed according to Order, <date>March 22. 1688/9.</date>
+               </p>
+            </argument>
+            <opener>
+               <signed>TYRCONNEL.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS ſeveral Perſons in the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> and the Town of <hi>Sligo,</hi> in this His Majeſties Kingdom, have entred into ſeveral Aſſociations, containing no leſs offence than High Treaſon, and thereupon formed themſelves into ſeveral Parties, dividing and marſhalling themſelves into ſeve<g ref="char:EOLhyphen"/>ral Regiments, Troops and Companies, marching well armed up and down the Countrey, to the great Terror of the King's liege People, in manifeſt breach of the Law and of the Peace of this Realm. And having reſolved within Our Selves to prevent the effuſion of Blood, as long as it was poſſible, by uſing all peaceable meanes to reduce the ſaid Malefactors to their obedience, have of late iſſued a Proclamation, ſetting forth the ſaid Diſorders, requiring all the ſaid Parties to di<g ref="char:EOLhyphen"/>ſperſe, and repair to their ſeveral Habitations and Callings, aſſuring every of them of His Majeſties Pardon and Protection. And whereas We find the ſaid Offenders, inſtead of complying with Our ſaid Proclamation, ſtill to perſiſt in their wickedneſs, by continuing in actual Rebellion, breaking of Priſons, and diſcharging of Priſoners, ſecured by due courſe of Law, for Robberies, Felonies, and other hainous Crimes, by ſeizing upon His Majeſties Arms and Ammunition, impriſoning ſeveral of His Majeſties Army, diſarming and diſmounting them, killing and murdering ſeveral of His Majeſties Subjects, pillaging and plundering the Countrey, and daily committing ſeveral other acts of Hoſtility; and ſinding no other way left to ſuppreſs the ſaid Rebellion, We the Lord Deputy have cauſed a Party of His Majeſties Army, under the Command of Lieutenant General <hi>Richard Hamilton,</hi> to march into the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> to reduce the Rebels there by the force of Arms, the conſequence whereof cannot be but very fatal to that Coun<g ref="char:EOLhyphen"/>trey and the Inhabitants thereof, and will inevitably occaſion the total ruine and deſtruction of that part of His Majeſties Kingdom; the conſideration whereof hath given Us great diſquiet and trouble of Mind, that a Countrey well planted and inhabited, ſhould now, by the inſolency and traiterous wickedneſs of its own Inhabitants, he brought to mine and deſolation, which we are ſtill willing to prevent, if any ſpark of grace be yet remaining in the hearts of thoſe Conſpirators, hereby declaring notwithſtanding the many Affronts by them put upon His Majeſties Goverment notwithſtanding the ſeveral acts of ho<g ref="char:EOLhyphen"/>ſtility by them hitherto committed, that if they will now ſubmit and become dutiful Subjects, His Majeſties mercy ſhall be extended to them, excepting the perſons hereafter excepted. And in order thereunto, We the Lord Deputy and Council do hereby ſtrictly Charge and Command all ſuch Perſons in Arms in <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> or the Town of <hi>Sligoe,</hi> forthwith to lay down Arms, and that the principal perſons amongſt them now in the North do forthwith repair to the ſaid Lieutenant General <hi>Richard Hamilton,</hi> and deliver up to him their Arms and ſerviceable Horſes, and to give him Hoſtages as an aſſurance of their future Loyalty and Obedience to His Majeſty. And that all their Adherents do deliver up their Arms and ſerviceable Horſes to ſuch perſon and perſons as he the ſaid Lieutenant General <hi>Hamilton</hi> ſhall appoint to receive them. And We do alſo further Charge and Command all the principal perſons of other Commotions and Inſurrections in <hi>Sligoe</hi> to repair forth<g ref="char:EOLhyphen"/>with either to Us the Lord Deputy, or to Colonel <hi>Mac Daniell</hi> at the <hi>Boyle,</hi> and to deliver up their Arms and ſerviceable Horſes, and to give Hoſtages as ſecurity for their future peaceable deportment, and their adherents to lay down their Arms, to be delivered up together with their ſerviceable Horſes to the ſaid Colonel <hi>Mac Daniell;</hi> We the Lord Deputy hereby gi<g ref="char:EOLhyphen"/>ving ſafe conduct to ſuch of them as will ſubmit according to this our Proclamation. And we do hereby further declare, that ſuch of the ſaid perſons as ſhall give obedience to theſe Our Commands, (except the perſons hereafter excepted) ſhall have His Majeſties protection and pardon for all paſt offences relating to the ſaid Commotions and Inſurrections; but in caſe they ſhall be ſo unhappy as to perſiſt in their wicked Deſigns and treaſonable Practices, We the Lord Deputy do hereby Com<g ref="char:EOLhyphen"/>mand all His Majeſties Forces to fall upon them where ever they meet them, and to treat them as Rebels and Traytors to His Majeſty. Yet to the end the innocent may not ſuffer for the crime of the nocent, and that the committal of inhumane acts may be prevented, We do hereby ſtrictly Charge and Command His Majeſties Army now upon their march to the North and all other His Majeſties Forces, that they or either of them do not preſume to uſe any violence to Women, Chil<g ref="char:EOLhyphen"/>dren, aged or decrepit Men, Labourers, Plowmen, or Tillers of the Ground, or to any other who in theſe Commotions de<g ref="char:EOLhyphen"/>meaned themſelves inoffenſively, without joyning with the Rebels, or aiding or aſſiſting them in their traiterous actings and behaviours. But in regard <hi>Hugh</hi> Earl of <hi>Mount Alexander, John</hi> Lord Viſcount <hi>Maſſereene, Robert</hi> Lord Baron of <hi>Kingſton, Clotworthy Skevington</hi> 
+               <abbr>Eſq</abbr> Son to the Lord Viſcount <hi>Maſſereene,</hi> Sir <hi>Robert Colvill,</hi> Sir <hi>Arthur Rawdon,</hi> Sir <hi>John Magill, John Hawkins, Robert Sanderſon,</hi> and <hi>Francis Hamilton</hi> Son to Sir <hi>Charles Hamilton,</hi> have been the principal Actors in the ſaid Rebellion, and the perſons who adviſed and fomented the ſame, and inveigled others to be involved therein, We think fit to except them out of this Our Proclamation, as perſons not deſerving His Majeſties mercy or favour.</p>
+            <closer>
+               <dateline>Given of the Council-Chamber at <hi>Dublin,</hi> 
+                  <date>the 7th day of <hi>March,</hi> 1688.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>A. Fytton.</item>
+                     <item>C. Granard.</item>
+                     <item>Lymerick.</item>
+                     <item>Bellewe.</item>
+                     <item>Will.</item>
+                     <item>Talbot.</item>
+                     <item>Tho. Newcomen.</item>
+                     <item>Rich. Hamilton.</item>
+                     <item>Fran. Plowden.</item>
+                  </list>
+               </signed>
+GOD Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helſham,</hi> Aſſigns of <hi>Benjamin Tooke,</hi> Printer to the King's Moſt Ex<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ellent Majeſty: And Reprinted at <hi>London</hi> for <hi>T. G.</hi> and are to be Sold by <hi>Richard Baldwin,</hi> next the <hi>Black Bull</hi> in the <hi>Old-Bailey,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
